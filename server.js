@@ -84,3 +84,4 @@ app.get('/json', (req, res) => {
 
 
 app.listen(3000);
+console.log(`Listening at: http://localhost:[36m${3000}[0m`);
